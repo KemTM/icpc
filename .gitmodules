@@ -1,0 +1,3 @@
+[submodule "hightail"]
+	path = hightail
+	url = https://github.com/dj3500/hightail
