@@ -1,0 +1,14 @@
+# vscode configs
+.vscode
+
+# output binaries
+*.exe
+
+# data
+input.txt
+output.txt
+debug.txt
+
+# hightail
+hightail*.jar
+hightail.config
